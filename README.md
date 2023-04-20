@@ -11,3 +11,4 @@ compare prompt result
 
 
 是不是可以直接用 https://github.com/slidevjs/slidev 的模板填充数据 从ppt到pdf
+https://sli.dev/guide/exporting.html#slides
