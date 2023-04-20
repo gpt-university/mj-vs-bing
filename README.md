@@ -8,3 +8,6 @@ compare prompt result
 [https://huggingface.co/spaces/stabil...able-diffusion…](https://t.co/H1fUFropWS) 
 [https://openai.com/dall-e-2/](https://t.co/m1UkfBzUEl) 
 [https://beta.dreamstudio.ai/home](https://t.co/Mcb4TWkQRw)
+
+
+是不是可以直接用 https://github.com/slidevjs/slidev 的模板填充数据 从ppt到pdf
