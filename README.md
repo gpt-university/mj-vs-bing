@@ -12,3 +12,8 @@ compare prompt result
 
 是不是可以直接用 https://github.com/slidevjs/slidev 的模板填充数据 从ppt到pdf
 https://sli.dev/guide/exporting.html#slides
+
+
+
+https://github.com/BibBin/taro-poster-builder
+也可以用这种海报生成器 一个图片配文字
