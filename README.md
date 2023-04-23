@@ -17,3 +17,6 @@ https://sli.dev/guide/exporting.html#slides
 
 https://github.com/BibBin/taro-poster-builder
 也可以用这种海报生成器 一个图片配文字
+
+
+https://github.com/sco1/vid2pdf
