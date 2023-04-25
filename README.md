@@ -29,3 +29,8 @@ nav 导航网站
 邮件推送
 
 https://github.com/wanghaisheng/garss
+
+rss 2pdf
+
+https://github.com/iliazeus/feed2pdf
+https://github.com/andrwcnln/watchman
